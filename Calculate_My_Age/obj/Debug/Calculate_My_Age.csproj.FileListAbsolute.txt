@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\bin\Debug\Calculate_My_Age.exe.config
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\bin\Debug\Calculate_My_Age.exe
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\bin\Debug\Calculate_My_Age.pdb
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\obj\Debug\Calculate_My_Age.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\obj\Debug\Calculate_My_Age.Form1.resources
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\obj\Debug\Calculate_My_Age.Properties.Resources.resources
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\obj\Debug\Calculate_My_Age.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\obj\Debug\Calculate_My_Age.exe
+C:\Users\User\Desktop\My Own Project\Calculate_My_Age\Calculate_My_Age\obj\Debug\Calculate_My_Age.pdb
